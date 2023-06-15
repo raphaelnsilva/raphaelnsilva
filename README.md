@@ -34,5 +34,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Raphael Silva](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/raphaelsilvaa/))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:raphaelnunessilva@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelnunessilva@hotmail.com)](mailto:raphaelnunessilva@hotmail.com)
 [![GitHub raphaelnsilva]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/raphaelnsilva)
