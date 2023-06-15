@@ -2,8 +2,8 @@
 <h3> 👨‍🚀: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/">UNINOVE</a>.
-- 💼 &nbsp; Trabalhando como **AUXILIAR DE ESCRITÓRIO** na <a href="https://www.getek.com.br/">GETEK</a>
+- 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/" target="_blank">UNINOVE</a>.
+- 💼 &nbsp; Trabalhando como **AUXILIAR DE ESCRITÓRIO** na <a href="https://www.getek.com.br/" target="_blank">GETEK</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
