@@ -1,10 +1,10 @@
 
 <h3> Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/" target="_blank">UNINOVE</a>.
-- 💼 &nbsp; Trabalhando como **AUXILIAR DE ESCRITÓRIO** na <a href="https://www.getek.com.br/" target="_blank">GETEK</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT**.
+-  Explorando novas tecnologias e desenvolvendo soluções de software.
+-  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/" target="_blank">UNINOVE</a>.
+-  Trabalhando como **AUXILIAR DE ESCRITÓRIO** na <a href="https://www.getek.com.br/" target="_blank">GETEK</a>
+-  Aprendendo mais sobre **NODE.JS**.
 
 <h3> &nbsp;Minhas Skills </h3>
 
