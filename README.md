@@ -4,7 +4,7 @@
 -  Explorando novas tecnologias e desenvolvendo soluções de software.
 -  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/" target="_blank">UNINOVE</a>.
 -  Trabalhando como **AUXILIAR DE ESCRITÓRIO** na <a href="https://www.getek.com.br/" target="_blank">GETEK</a>
--  Aprendendo mais sobre **NODE.JS**.
+-  Aprendendo mais sobre **NODE.JS**
 
 <h3> &nbsp;Minhas Skills </h3>
 
