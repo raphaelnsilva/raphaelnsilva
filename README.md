@@ -6,7 +6,7 @@
 - 💼 &nbsp; Trabalhando como **AUXILIAR DE ESCRITÓRIO** na <a href="https://www.getek.com.br/" target="_blank">GETEK</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
@@ -18,8 +18,8 @@
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white))
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **Ferramentas de Desenvolvimento**
 
