@@ -1,11 +1,3 @@
-
-<h3> Sobre mim </h3>
-
--  Explorando novas tecnologias e desenvolvendo soluções de software.
--  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/" target="_blank">UNINOVE</a>.
--  Trabalhando como **AUXILIAR DE ESCRITÓRIO** na <a href="https://www.getek.com.br/" target="_blank">GETEK</a>
--  Aprendendo mais sobre **NODE.JS**
-
 <h3> &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
@@ -27,5 +19,14 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <br/>
+
+
+<h3> Sobre mim </h3>
+
+-  Explorando novas tecnologias e desenvolvendo soluções de software.
+-  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/" target="_blank">UNINOVE</a>.
+-  Trabalhando como **AUXILIAR DE ESCRITÓRIO** na <a href="https://www.getek.com.br/" target="_blank">GETEK</a>
+-  Aprendendo mais sobre **NODE.JS**
+
 
 
