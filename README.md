@@ -25,7 +25,7 @@
 -  Explorando novas tecnologias e desenvolvendo soluções de software.
 -  Estudando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/" target="_blank">UNINOVE</a>.
 -  Trabalhando como **FREELANCER** 
--  Aprendendo mais sobre **REACT.JS**
+-  Aprendendo mais sobre **ANGULAR**
 
 
 
