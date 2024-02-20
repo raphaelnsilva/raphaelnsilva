@@ -1,4 +1,4 @@
-**👋🏼 Hi, my name is Raphael, I'm 24 years old and I live in Brazil, I'm a Technology student and I love what I do, in my free time, I like to play basketball 🏀, I also like listening to music 🎵, it helps me stay focused.**
+**👋🏼 Hello, my name is Raphael, I am a software developer I am 24 years old an I live in Brazil. I love what I do, in my free time, I like to play basketball, I also like listening to music , it helps me stay focused.**
 **See below some of the technologies I use most when creating my projects.**
 
   ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
