@@ -1,7 +1,8 @@
-**👋🏼 Hello, my name is Raphael, I am a software developer I am 24 years old an I live in Brazil. I love what I do, in my free time, I like to play basketball, I also like listening to music , it helps me stay focused.**
+Hello there! 👋🏼, I'm Raphael, a software developer living it up in Brazil. 
+Loving love what I do. Actualy I've been making some JavaScript projects and it's being good to expand my knowledge.
+Occasionally I tend to read documentation in English which also helps me a lot.
+In my free time, you can find me on the basketball court or vibing to some musics to keep the focus
 
-
-**ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.uninove.br/" target="_blank">UNINOVE</a>.
 
 
 
